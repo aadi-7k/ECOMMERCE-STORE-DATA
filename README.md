@@ -16,6 +16,11 @@ A sales dashboard is a crucial visual representation of the company's performanc
 This dashboard has been built upon two separate datasets which are attached in this repository. 'orders' and 'details'. 
 
 
+## Dashboard Preview
+
+![image](https://github.com/user-attachments/assets/cde1fe29-70fe-4f5b-b932-7f7577ab0412)
+
+
  ## Conclusion
 This project has been completed successfully as part of a learning portfolio project to practice building interactive dashboards on PowerBI as a beginner. The key learning takeaways for this project were:
  - How to connect PowerBI to MS SQL server and flat files
