@@ -1,7 +1,7 @@
     # Ecommerce-Power-BI-
 
 ## Project Title
-PowerBI Sales Dashboard for a US Based Ecommerce Company
+PowerBI Sales Dashboard for a Ecommerce Company
 
 ## Project Overview 
 The goal of this project is to create a sales dashboard showing information on Year-to-Date (YTD) Sales and generate insights for the scenarios below: 
